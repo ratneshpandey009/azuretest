@@ -1,7 +1,7 @@
 # Starter pipeline
 - task: CmdLine@2
   inputs:
-    script: |
+- script: |
       echo Write your commands here
       echo test
       echo Hello world
